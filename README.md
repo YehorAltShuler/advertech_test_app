@@ -1,16 +1,19 @@
-# advertech_test_task
+# advertech_test_app
 
-A new Flutter project.
+A test assignment for the Advertech company Flutter developer position application.
 
-## Getting Started
+## Requirements
 
-This project is a starting point for a Flutter application.
+[Initial requirements](https://github.com/advertechai/mobile_dev_test_task)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Libraries Used
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+State Management: Provider
+HTTP networking: Dio
+
+## Results 
+
+![advertech_app](https://github.com/YehorAltShuler/advertech_test_app/assets/107608882/943f5b06-a406-4e24-baa4-de6d277091b6)
+
+
